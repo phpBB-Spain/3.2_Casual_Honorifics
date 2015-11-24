@@ -1,9 +1,9 @@
-phpBB 3.1.6 Casual Honorifics (Tú)
+phpBB 3.2 Casual Honorifics (Tú)
 ================================
 
-Official Spanish Translation for phpBB 3.1.6 Casual Honorifics (TÚ)
+Official Spanish Translation for phpBB 3.2 Casual Honorifics (TÚ)
 
-Traducción oficial a Español de phpBB 3.1.6 Casual Honorifics (TÚ)
+Traducción oficial a Español de phpBB 3.2 Casual Honorifics (TÚ)
 
 ## Corrección de errores
 Para cualquier cambio a realizar, simplemente editar para realizar el cambio y "Pull Request".
