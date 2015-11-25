@@ -40,7 +40,8 @@ $lang = array_merge($lang, array(
 	'RECAPTCHA_LANG'				=> 'es_x_tu',
 	'RECAPTCHA_NOT_AVAILABLE'		=> 'Para poder usar reCaptcha, debes crear una cuenta en <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
 	'CAPTCHA_RECAPTCHA'				=> 'reCaptcha',
-	'RECAPTCHA_INCORRECT'			=> 'El código de confirmación visual que has insertado era incorrecto',
+	'RECAPTCHA_INCORRECT'			=> 'La solución que has insertado era incorrecta',
+	'RECAPTCHA_NOSCRIPT'			=> 'Por favor, activa JavaScript en tú navegador para cargar el desafío.',
 
 	'RECAPTCHA_PUBLIC'				=> 'Clave pública reCaptcha',
 	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'Tu clave pública reCaptcha. Se pueden obtener las claves en <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
