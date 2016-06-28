@@ -90,13 +90,17 @@ $lang = array_merge($lang, array(
 	// Filesystem requirements
 	'FILE_NOT_EXISTS'			=> 'El archivo no existe',
 	'FILE_NOT_EXISTS_EXPLAIN'	=> 'Para poder instalar phpBB el archivo %1$s debe existir.',
+	'FILE_NOT_EXISTS_EXPLAIN_OPTIONAL'	=> 'Se recomienda que el archivo %1$s exista para una mejor experiencia del usuario del foro.',
 	'FILE_NOT_WRITABLE'			=> 'No se puede escribir en el archivo',
 	'FILE_NOT_WRITABLE_EXPLAIN'	=> 'Para poder instalar phpBB se debe poder escribir en el archivo %1$s.',
+	'FILE_NOT_WRITABLE_EXPLAIN_OPTIONAL'	=> 'Se recomienda que el archivo %1$s se pueda escribir para una mejor experiencia del usuario del foro.',
 
-	'DIRECTORY_NOT_EXISTS'				=> 'El directorio no existe',
+	'DIRECTORY_NOT_EXISTS'			=> 'El directorio no existe',
 	'DIRECTORY_NOT_EXISTS_EXPLAIN'		=> 'Para poder instalar phpBB el directorio %1$s debe existir.',
-	'DIRECTORY_NOT_WRITABLE'			=> 'No se puede escribir en el directorio',
+	'DIRECTORY_NOT_EXISTS_EXPLAIN_OPTIONAL'	=> 'Se recomienda que el directorio %1$s exista para una mejor experiencia del usuario del foro.',
+	'DIRECTORY_NOT_WRITABLE'		=> 'No se puede escribir en el directorio',
 	'DIRECTORY_NOT_WRITABLE_EXPLAIN'	=> 'Para poder instalar phpBB se debe poder escribir en el directorio %1$s.',
+	'DIRECTORY_NOT_WRITABLE_EXPLAIN_OPTIONAL'	=> 'Se recomienda que el directorio %1$s se pueda escribir para una mejor experiencia del usuario del foro.',
 
 	// Server requirements
 	'PHP_VERSION_REQD'					=> 'Versión PHP',
@@ -521,7 +525,7 @@ $lang = array_merge($lang, array(
 
 	// Finish conversion
 	'CONVERT_COMPLETE'			=> 'Conversión completada',
-	'CONVERT_COMPLETE_EXPLAIN'	=> 'Has convertido tu sitio a phpBB 3.2 correctamente. Ahora puedes identificarte y <a href="../">acceder a tu sitio</a>. Recuerda que hay ayuda disponible en línea para usar phpBB3 vía <a href="https://www.phpbb.com/support/docs/en/3.2/ug/">Documentación</a>, y los <a href="https://www.phpbb.com/community/viewforum.php?f=466">foros de soporte</a> (ambos en inglés).',
+	'CONVERT_COMPLETE_EXPLAIN'	=> 'Has convertido tu sitio a phpBB 3.2 correctamente. Ahora puedes identificarte y <a href="../">acceder a tu sitio</a>. Recuerda que hay ayuda disponible en línea para usar phpBB3 vía <a href="https://www.phpbb.com/support/docs/en/3.3/ug/">Documentación</a>, y los <a href="https://www.phpbb.com/community/viewforum.php?f=466">foros de soporte</a> (ambos en inglés).',
 
 	'CONV_ERROR_ATTACH_FTP_DIR'			=> 'El FTP para subir adjuntos está habilitado en el viejo sitio. Por favor, deshabilite esta opción de FTP y asegúrese de especificar una capeta válida para subir, luego copia todos los adjuntos a esta nueva carpeta. Una vez hecho esto, reinicia el conversor.',
 	'CONV_ERROR_CONFIG_EMPTY'			=> 'No hay información de conversión disponible para la misma.',
