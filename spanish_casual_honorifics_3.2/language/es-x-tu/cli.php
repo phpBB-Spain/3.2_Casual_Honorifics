@@ -147,4 +147,11 @@ $lang = array_merge($lang, array(
 // Additional help for commands.
 $lang = array_merge($lang, array(
 	'CLI_HELP_CRON_RUN'			=> $lang['CLI_DESCRIPTION_CRON_RUN'] . ' Opcionalmente se puede especificar un nombre de tarea cron para ejecutar, sólo la tarea cron especificada.',
+	'CLI_HELP_USER_ACTIVATE'	=> 'Activar una cuenta de usuario, o desactivar una cuenta de usuario usando la opción <info>--deactivate</info>.
+Opcionalmente, para enviar un correo electrónico de activación al usuario, use la opción <info>--send-email</info>.',
+	'CLI_HELP_USER_ADD'			=> 'El comando <info>%command.name%</info> añade un nuevo usuario:
+Si este comando se ejecuta sin opciones, se le pedirá que las introduzca.
+Opcionalmente, para enviar un correo electrónico al nuevo usuario, use la opción <info>--send-email</info>.',
+	'CLI_HELP_USER_RECLEAN'		=> 'Volver a limpiar los nombres de usuario comprobarán todos los nombres de usuario almacenados, y garantizará que también se almacenan versiones limpias. Los nombres de usuario limpiados son un caso de forma insensible, NFC normalizado y transformado a ASCII.',
 ));
+
