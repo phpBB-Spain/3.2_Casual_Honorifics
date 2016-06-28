@@ -59,14 +59,14 @@ $lang = array_merge($lang, array(
 
 // Common language entries
 $lang = array_merge($lang, array(
-	'ACCOUNT_ACTIVE'				=> 'Tu cuenta ha sido activada. Gracias por registrarte',
+	'ACCOUNT_ACTIVE'			=> 'Tu cuenta ha sido activada. Gracias por registrarte',
 	'ACCOUNT_ACTIVE_ADMIN'			=> 'La cuenta ha sido activada',
 	'ACCOUNT_ACTIVE_PROFILE'		=> 'Tu cuenta ha sido ahora reactivada correctamente.',
-	'ACCOUNT_ADDED'					=> 'Gracias por registrarte, tu cuenta ha sido creada. Ahora puedes identificarte con tu nombre de usuario y tu contraseña',
-	'ACCOUNT_COPPA'					=> 'Tu cuenta ha sido creada pero no aprobada, por favor revisa tu email para más detalles.',
+	'ACCOUNT_ADDED'				=> 'Gracias por registrarte, tu cuenta ha sido creada. Ahora puedes identificarte con tu nombre de usuario y tu contraseña',
+	'ACCOUNT_COPPA'				=> 'Tu cuenta ha sido creada pero no aprobada, por favor revisa tu email para más detalles.',
 	'ACCOUNT_EMAIL_CHANGED'			=> 'Tu cuenta ha sido actualizada. Sin embargo este foro requiere reactivación de cuenta por e-mail. Una clave de activación ha sido enviada a la nueva dirección de e-mail que ha proporcionado. Por favor, comprueba tu e-mail para más información.',
 	'ACCOUNT_EMAIL_CHANGED_ADMIN'	=> 'Tu cuenta ha sido actualizada. Sin embargo este foro requiere reactivación de cuenta por los Administradores via e-mail. Un e-mail se ha enviado a ellos y se te informará cuándo será reactivada tu cuenta.',
-	'ACCOUNT_INACTIVE'				=> 'Tu cuenta ha sido creada. Sin embargo, este foro requiere activación de cuenta, una contraseña de activación ha sido enviada a la dirección de email que ha introducido. Por favor, revisa tu email para más información',
+	'ACCOUNT_INACTIVE'			=> 'Tu cuenta ha sido creada. Sin embargo, este foro requiere activación de cuenta, una contraseña de activación ha sido enviada a la dirección de email que introdujiste. Por favor, revisa tu correo electrónico para obtener más información, y también asegúrese de comprobar su buzón de correo no deseado. Puede tardar un tiempo para conseguir el correo electrónico en función de tu proveedor de correo electrónico.',
 	'ACCOUNT_INACTIVE_ADMIN'		=> 'Tu cuenta ha sido creada. Sin embargo, este foro requiere activación de cuenta por el Administrador. Un email te ha sido enviado y se te informará cuando haya sido activada tu cuenta',
 	'ACTIVATION_EMAIL_SENT'			=> 'El email de activación ha sido enviado a tu dirección de email',
 	'ACTIVATION_EMAIL_SENT_ADMIN'	=> 'El email de activación ha sido enviado a las direcciones de correo de los administradores.',
