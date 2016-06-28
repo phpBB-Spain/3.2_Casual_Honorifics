@@ -777,7 +777,7 @@ $lang = array_merge($lang, array(
 		1	=> '%d mensaje privado en total',
 		2	=> '%d mensajes privados en total',
 	),
-    'TOPIC_POLL'		=> 'Este tema tiene una encuesta.',
+    	'TOPIC_POLL'		=> 'Este tema tiene una encuesta.',
 	'TOTAL_POSTS'		=> 'Mensajes totales',
 	'TOTAL_POSTS_COUNT'	=> array(
 		2	=> 'Mensajes totales <strong>%d</strong>',
@@ -821,7 +821,7 @@ $lang = array_merge($lang, array(
 	'USERS'	=> 'Usuarios',
 	'USE_PERMISSIONS'	=> 'Transferirme los permisos del Usuario',
 
-	'USER_NEW_PERMISSION_DISALLOWED'	=> 'Lo sentimos pero no estás autorizado a usar esta opción. Puede que te hayas registrado hace poco aquí y necesites participar más para poder hacer uso de esta opción.',
+	'USER_NEW_PERMISSION_DISALLOWED'	=> 'Lo sentimos pero no estás autorizado a usar esta opción. Puede que te hayas registrado hace poco aquí y necesites participar más en las discusiones para poder hacer uso de esta opción.',
 
 	'VARIANT_DATE_SEPARATOR'	=> ' / ',
 	'VIEWED'	=> 'Visto',
