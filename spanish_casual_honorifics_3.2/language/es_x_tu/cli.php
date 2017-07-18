@@ -127,7 +127,7 @@ $lang = array_merge($lang, array(
 
 	'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'Reparado correctamente el árbol de estructura de los foros y módulos.',
 	'CLI_FIXUP_RECALCULATE_EMAIL_HASH_SUCCESS'	=> 'Todos los hashes de correo se han recalculado correctamente.',
-	'CLI_FIXUP_UPDATE_HASH_BCRYPT_SUCCESS'		=> 'Contraseñas caducadas correctamente actualizadas los hashes para bcrypt.'
+	'CLI_FIXUP_UPDATE_HASH_BCRYPT_SUCCESS'		=> 'Contraseñas caducadas correctamente actualizadas los hashes para bcrypt.',
 
 	'CLI_MIGRATION_NAME'					=> 'Nombre de Migración, incluyendo el espacio de nombres (utilice barras inclinadas en lugar de barras invertidas para evitar problemas).',
 	'CLI_MIGRATIONS_AVAILABLE'				=> 'Migraciones disponibles',
