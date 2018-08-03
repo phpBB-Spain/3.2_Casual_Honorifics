@@ -348,7 +348,7 @@ $lang = array_merge($lang, array(
 
 // Cookie Settings
 $lang = array_merge($lang, array(
-	'ACP_COOKIE_SETTINGS_EXPLAIN'	=> 'Estos detalles determinan los datos usados para enviar cookies a los navegadores de los usuarios. En la mayoría de los casos los valores por defecto para los configuración de las cookies deberían ser suficiente. Si necesita cambiar algo, hágalo con cuidado, parámetros incorrectos impedirían que los usuarios puedan identificarse. Si tiene problemas para que los usuarios mantengan la sesión correctamente en su foro, visite la página (en Inglés) <b><a href="https://www.phpbb.com/support/go/cookie-settings/">phpBB.com Knowledge Base - Fixing incorrect cookie settings</a></b>.',
+	'ACP_COOKIE_SETTINGS_EXPLAIN'	=> 'Estos detalles determinan los datos usados para enviar cookies a los navegadores de los usuarios. En la mayoría de los casos los valores por defecto para los configuración de las cookies deberían ser suficiente. Si necesita cambiar algo, hágalo con cuidado, parámetros incorrectos impedirían que los usuarios puedan identificarse. Si tiene problemas para que los usuarios mantengan la sesión correctamente en su foro, visite la página (en Inglés) <strong><a href="https://www.phpbb.com/support/go/cookie-settings">phpBB.com Knowledge Base - Fixing incorrect cookie settings</a></strong>.',
 
 	'COOKIE_DOMAIN'				=> 'Dominio de la cookie',
 	'COOKIE_DOMAIN_EXPLAIN'		=> 'En la mayoría de los casos, el dominio de cookies es opcional. Puede dejarlo en blanco si no está seguro.<br><br> En el caso de tener un foro integrado con otro software, o tiene varios dominios, entonces para determinar el dominio de la cookie que necesita, debe hacer lo siguiente. Si tiene algo como <i>example.com</i> y <i>forums.example.com</i>, o quizás <i>forums.example.com</i> y <i>blog.example.com</i>. Elimine los subdominios hasta encontrar el dominio común, <i>example.com</i>. Ahora agregue un punto delante del dominio común e introduzca .example.com (note el punto al principio).',
@@ -404,6 +404,8 @@ $lang = array_merge($lang, array(
 	'READ_NOTIFICATION_EXPIRE_DAYS_EXPLAIN' => 'Número de días que transcurrirán antes de eliminar automáticamente las notificaciones de lectura. Establezca este valor en 0 para hacer notificaciones permanentes.',
 	'RECOMPILE_STYLES'				=> 'Recompilar plantillas antiguas',
 	'RECOMPILE_STYLES_EXPLAIN'		=> 'Busca plantillas actualizadas y las reconstruye.',
+	'YES_ACCURATE_PM_BUTTON'			=> 'Habilitar el permiso específico del botón de MP en las páginas de temas',
+	'YES_ACCURATE_PM_BUTTON_EXPLAIN'	=> 'Si esta configuración está habilitada, solo los perfiles de publicación de los usuarios que tienen permiso para leer mensajes privados tendrán un botón de mensaje privado.',
 	'YES_ANON_READ_MARKING'			=> 'Habilitar marcado de temas para invitados',
 	'YES_ANON_READ_MARKING_EXPLAIN'	=> 'Guarda información de leído/no leído para invitados. Si se deshabilita los mensajes siempre se marcan como leídos a los invitados.',
 	'YES_ACCURATE_PM_BUTTON'			=> 'Habilitar el indicador MP en las páginas de temas',
