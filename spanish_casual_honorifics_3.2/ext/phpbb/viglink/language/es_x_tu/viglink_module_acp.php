@@ -50,5 +50,5 @@ $lang = array_merge($lang, array(
 	'ACP_VIGLINK_CLAIM'				=> 'Reclamar tus ganancias',
 	'ACP_VIGLINK_CLAIM_EXPLAIN'		=> 'Puedes reclamar las ganancias de tu foro de los enlaces monetarios VigLink, en lugar de donar las ganancias al proyecto phpBB. Para gestionar la configuración de tu cuenta, regístra tu cuenta “Convertir VigLink” haciendo clic en “Convertir Cuenta”.',
 	'ACP_VIGLINK_CONVERT_ACCOUNT'	=> 'Convertir cuenta',
-	'ACP_VIGLINK_NO_CONVERT_LINK'	=> 'No se pudo recuperar el vínculo de cuenta de conversión de VigLink.'
+	'ACP_VIGLINK_NO_CONVERT_LINK'	=> 'No se pudo recuperar el vínculo de cuenta de conversión de VigLink.',
 ));
