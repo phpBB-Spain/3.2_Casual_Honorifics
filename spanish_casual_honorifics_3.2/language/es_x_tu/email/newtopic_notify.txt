@@ -1,4 +1,5 @@
-Subject: Notificación de nuevo tema - "{FORUM_NAME}"
+Subject: Notificación de nuevo tema - “{FORUM_NAME}”
+Lista-Darse de baja: <{U_STOP_WATCHING_TOPIC}>
 
 Hola {USERNAME},
 
@@ -7,6 +8,10 @@ Este foro tiene un nuevo tema<!-- IF AUTHOR_NAME != '' --> por {AUTHOR_NAME}<!--
 Puedes usar el siguiente enlace para ver el foro. No se enviarán más notificaciones hasta que lo visites.
 
 {U_FORUM}
+
+Para ver el nuevo tema directamente, visita el siguiente enlace:
+
+{U_TOPIC}
 
 Si no quieres seguir más ese foro puedes hacer clic en "Cancelar suscripción al Foro" cuando estés allí, o bien siguiendo este enlace:
 
