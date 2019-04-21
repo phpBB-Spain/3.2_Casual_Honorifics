@@ -780,7 +780,11 @@ $lang = array_merge($lang, array(
 	'TOPIC_REVIEW'	=> 'Revisión de tema',
 	'TOPIC_TITLE'	=> 'Título del tema',
 	'TOPIC_UNAPPROVED'	=> 'Este tema no ha sido aprobado.',
-    	'TOPIC_DELETED'		=> 'Este tema ha sido borrado.',
+	'TOPIC_UNAPPROVED_FORUM'	=> array(
+		1	=> 'Tema pendiente de aprobación',
+		2	=> 'Temas pendientes de aprobación',
+	),
+    'TOPIC_DELETED'		=> 'Este tema ha sido borrado.',
 	'TOTAL_ATTACHMENTS'	=> 'Adjunto(s)',
 	'TOTAL_LOGS'		=> array(
 		1	=> '%d registro',
@@ -790,7 +794,7 @@ $lang = array_merge($lang, array(
 		1	=> '%d mensaje privado en total',
 		2	=> '%d mensajes privados en total',
 	),
-    	'TOPIC_POLL'		=> 'Este tema tiene una encuesta.',
+    'TOPIC_POLL'		=> 'Este tema tiene una encuesta.',
 	'TOTAL_POSTS'		=> 'Mensajes totales',
 	'TOTAL_POSTS_COUNT'	=> array(
 		2	=> 'Mensajes totales <strong>%d</strong>',
