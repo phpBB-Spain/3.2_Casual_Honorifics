@@ -179,7 +179,6 @@ $lang = array_merge($lang, array(
 	'DEMOTE_SELECTED'				=> 'Degradar seleccionado',
 	'DISABLE_CENSORS'				=> 'Habilitar palabras censuradas',
 	'DISPLAY_GALLERY'				=> 'Mostrar galería',
-	'DOMAIN_NO_MX_RECORD_EMAIL'		=> 'El dominio del email ingresado no tiene un registro MX válido.',
 	'DOWNLOADS'						=> 'Descargas',
 	'DRAFTS_DELETED'				=> 'Todos los borradores seleccionados fueron borrados correctamente.',
 	'DRAFTS_EXPLAIN'				=> 'Aquí puedes ver, editar o borrar tus borradores guardados.',
